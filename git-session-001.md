@@ -91,4 +91,5 @@ Git branch is a pointer.
 ### Next:
 
 The merge.
+
 Advanced git structure.
